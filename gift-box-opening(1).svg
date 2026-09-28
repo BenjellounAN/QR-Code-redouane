@@ -29,7 +29,7 @@
 <ellipse cx="600" cy="390" rx="300" ry="250" fill="url(#halo)"/>
 <circle class="glow" cx="600" cy="430" r="230"/>
 <text class="kicker" x="600" y="105">REDONE BARBER AT HOME</text>
-<text class="headline serif" x="600" y="164">A little gift for you</text>
+<text class="headline serif" x="600" y="164">FREE Facial Scrub with Every Haircut</text>
 <text class="copy" x="600" y="202">YOUR NEXT HAIRCUT COMES WITH A SURPRISE</text>
 <!-- sparkling burst behind the gift -->
 <g class="rays" stroke="#e6c887" stroke-width="2" opacity=".7">
@@ -55,7 +55,7 @@
   <rect x="376" y="278" width="448" height="128" rx="18" fill="#17201d" stroke="#d4b67c" stroke-width="1.5"/>
   <path d="M403 301h394" stroke="#d4b67c" opacity=".55"/>
   <text class="small" x="600" y="329">COMPLIMENTARY FACIAL</text>
-  <text class="gommage serif" x="600" y="376">Gommage offert</text>
+  <text class="gommage serif" x="600" y="376">Focia Scrub</text>
   <text class="small" x="600" y="395" font-size="10">WITH EVERY HAIRCUT</text>
  </g>
  <!-- lid, bow and ribbon move together -->
