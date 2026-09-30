@@ -4,7 +4,7 @@ A mobile barber service in Marrakech, Morocco\. Customers can browse the service
 
 ## Live website
 
-https://benjellounan\.github\.io/QR\-Code\-redouane/
+https://redonebarber.com
 
 ## Services
 
